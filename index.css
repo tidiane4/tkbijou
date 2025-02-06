@@ -1,0 +1,57 @@
+
+
+
+body{
+  
+    margin: 0;
+    padding: 0;
+    background-image: url(Screenshot_20250115_111419_WhatsAppBusiness.jpg);
+}
+h1{
+    text-align: center;
+    padding-top: 20px;
+    font-family: "Dancing script",serif;
+    text-shadow: blanchedalmond;
+   
+    
+
+    
+}
+#presentation{
+    text-align:right;
+    
+}
+
+header nav a {
+    
+    text-decoration: none;
+    flex-direction: initial;
+    font-family: "Dancing script",serif;
+    
+    
+    
+
+}
+
+nav{
+    overflow: hidden;
+    width:100%;
+    background-color:#fffea1;
+    opacity: 0.9;
+    float: right;
+    position:fixed;
+    font-size: large;
+}
+header img{
+    width:300px;
+
+}
+
+
+#des{
+    text-align: TOP;
+}
+        
+        
+
+    
